@@ -63,7 +63,7 @@ const Weather = () => {
   }
 
   useEffect(() => {
-    search("Chandigarh");
+    search("");
   }, [])
 
   return (
