@@ -63,7 +63,7 @@ const Weather = () => {
   }
 
   useEffect(() => {
-    search("");
+    search("Agra");
   }, [])
 
   return (
